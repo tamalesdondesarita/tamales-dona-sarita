@@ -67,7 +67,7 @@
   <h2>🌽 Nuestro producto</h2>
   <div class="card">
     <p>
-      Tamal tolimense tradicional con pollo, costilla de cerdo, huevo,
+      Tamal tolimense tradicional con pollo, lomo de cerdo, huevo,
       tocino, arroz y masa bien sazonada.
     </p>
     <p class="price">Precio: $6.500 COP</p>
