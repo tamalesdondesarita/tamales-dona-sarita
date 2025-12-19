@@ -1,1 +1,87 @@
-# tamales-donde-sarita
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tamales Donde Sarita | Auténticos Tolimenses</title>
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background-color: #fffaf3;
+      color: #333;
+    }
+    header {
+      background: linear-gradient(135deg, #c62828, #8e0000);
+      color: white;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    section {
+      padding: 30px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    h2 {
+      color: #c62828;
+    }
+    .card {
+      background: white;
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      margin-bottom: 20px;
+    }
+    .price {
+      font-weight: bold;
+      font-size: 1.2rem;
+    }
+    .btn {
+      display: inline-block;
+      background-color: #25d366;
+      color: white;
+      padding: 15px 25px;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: bold;
+      margin-top: 15px;
+    }
+    footer {
+      background-color: #f2f2f2;
+      text-align: center;
+      padding: 15px;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>Tamales Donde Sarita</h1>
+  <p>Auténticos tamales tolimenses</p>
+</header>
+
+<section>
+  <h2>🌽 Nuestro producto</h2>
+  <div class="card">
+    <p>
+      Tamal tolimense tradicional con pollo, costilla de cerdo, huevo,
+      tocino, arroz y masa bien sazonada.
+    </p>
+    <p class="price">Precio: $6.500 COP</p>
+  </div>
+
+  <h2>📲 Pedidos a domicilio</h2>
+  <a class="btn" href="https://wa.me/573209524192" target="_blank">
+    Pedir por WhatsApp
+  </a>
+</section>
+
+<footer>
+  © 2025 Tamales Donde Sarita – Tradición Tolimense
+</footer>
+
+</body>
+</html>
